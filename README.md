@@ -1,2 +1,2 @@
-# PARCIALL1
-SUBIENDO NUEVAMENTE EL PARCIAL/YA MOSTRADO EN CLASE DEBIDO A PROBLEMA PARA SUBIRLO A GIT
+# prog3
+ejercicio de programacion 3 universidad de caldas
